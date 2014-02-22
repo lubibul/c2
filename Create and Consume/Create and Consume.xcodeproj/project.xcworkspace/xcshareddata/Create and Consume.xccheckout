@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>17CC4499-D149-4802-AA2A-175B1C9A496B</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Create and Consume</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>80FA00CF-BD4E-4834-BA10-7616E1B58858</key>
+		<string>ssh://github.com/lubibul/c2.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Create and Consume/Create and Consume.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>80FA00CF-BD4E-4834-BA10-7616E1B58858</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com/lubibul/c2.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>80FA00CF-BD4E-4834-BA10-7616E1B58858</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>80FA00CF-BD4E-4834-BA10-7616E1B58858</string>
+			<key>IDESourceControlWCCName</key>
+			<string>c2</string>
+		</dict>
+	</array>
+</dict>
+</plist>

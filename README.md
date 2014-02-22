@@ -1,4 +1,4 @@
-c2
+Create & Consume
 ==
 
-what do you create and consume every day?
+What do you create and consume every day?
